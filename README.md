@@ -1,6 +1,6 @@
 # Big-data-project-1
 
-This is our code for the Big data module 2026. The Python script contains all of the steps required - data reading and partitioning, anomaly detection and performance testing.
+This is our code for the Big data module 2026. The Python script contains all of the steps required - data reading and partitioning, anomaly detection and performance testing. The data we used was from 2025-12-31 and 2026-01-01.
 
 To run the code you will need to download a couple of packages and change the input and output directories in the script.
 
